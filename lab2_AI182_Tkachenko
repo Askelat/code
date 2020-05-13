@@ -1,0 +1,45 @@
+#index.html
+<meta charset="utf-8">
+<HTML lang="eng">
+<HEAD>
+    <TITLE>Ткаченко</TITLE>
+</HEAD>
+<BODY>
+    <H1>Приветствую Вас на моей первой web-страничке!</H1>
+    <BR>
+    <H6><i>Студент группы АИ-182</i></H6>
+    <BR>
+    <H3><i>Ткаченко Владислав</i></H3>
+<BR>
+    <b><s>Нас</s></b>
+    <b><i><font color="red">у</font><font color="green">т</font><font color="#6495ed">р</font><font color="orange">о</font></i></b>
+    <b><sup><u>встречает</u></sup></b>
+    <b><font color="red">про</font></b><i>хлад</i><b><font color="blue">ой</font></b>
+</BODY>
+</HTML>
+      
+
+#index2.html
+<meta charset="UTF-8">
+<html lang="eng">
+  <head>
+    <title>Ткаченко</title>
+  </head>
+  <body>
+    Приветствую Вас на моей второй web-страничке!
+    Я знаю как оформлять:
+  <ol>
+    <li>Шрифты</li>
+      <ul>&bull; Размер</ul>
+      <ul>&bull; Цвет</ul>
+      <ul>&bull; Гарнитуру</ul>
+      <ul>&bull; Индексы</ul>
+    <li>Заголовки</li>
+      <ul>&bull; От 1-го до 6-го уровня</ul>
+    <li>Абзацы</li>
+      <ul>&bull; Выравнивание</ul>
+      <ul>&bull; Разрыв строк внутри абзаца</ul>
+      <ul>&bull; С использованием переформатирования</ul>
+  </ol>
+  </body>
+</html>
